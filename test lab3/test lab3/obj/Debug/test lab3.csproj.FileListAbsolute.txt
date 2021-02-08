@@ -1,0 +1,1 @@
+F:\c#\test lab3\test lab3\bin\Debug\test lab3.exe.config
